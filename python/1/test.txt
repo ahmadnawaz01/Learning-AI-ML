@@ -1,0 +1,4 @@
+Line 1: Hello Python!
+Line 2: Learning Files
+Line 3: File Handling is easy
+Line 4: This was added later.
