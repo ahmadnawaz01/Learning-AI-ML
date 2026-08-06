@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+src/
+src\expense_tracker_mcp
+src/expense_tracker_mcp/
+*.egg-info
+
+# Virtual environments
+.venv
